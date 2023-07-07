@@ -18,4 +18,6 @@
   
   (command "QSAVE")
   
-)
+);
+
+; percobaan 1
