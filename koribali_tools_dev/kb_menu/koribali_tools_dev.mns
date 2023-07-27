@@ -1,0 +1,26 @@
+//  Copyright (c) 2023 - Koribali.
+//  Program Information 
+//   File Name     : koribali_tools
+//   Author        : M. Ramdan purnama
+//   Email         : m.ramdan.p@gmail.com
+//   Website       : -
+//   Date Created  : 2023/03/05
+
+//
+// AutoCAD menu file - C:\AutoLISP\koribali_tools\kb_menu\koribali_tools.mns
+//
+
+***MENUGROUP=koribali_tools_dev
+
+***TOOLBARS
+**koribali_tools_dev
+KB Dimension         [_Toolbar("KB Dimension", _Floating, _Show, 121, 115, 1)]
+Description          [_Button("Description", "C:\\AutoLISP\\koribali_tools_dev\\kb_icon\\kb_dimension_description-3.bmp", "ICON_32_BLANK")](kb_dimension_description)
+Reset Text Position  [_Button("Reset text position", "C:\\AutoLISP\\koribali_tools_dev\\kb_icon\\kb_dimension_reset-3.bmp", "ICON_32_BLANK")](kb_dimension_reset)
+Taper Dimension      [_Button("Taper dimension", "C:\\AutoLISP\\koribali_tools_dev\\kb_icon\\kb_dimension_taper-3.bmp", "ICON_32_BLANK")](kb_dimension_taper)
+Tatakikomi Cap       [_Button("Taper dimension", "C:\\AutoLISP\\koribali_tools_dev\\kb_icon\\kb_top_tatakikomi_cap.bmp", "ICON_32_BLANK")](kb_top_tatakikomi_cap)
+Screw Cap            [_Button("Taper dimension", "C:\\AutoLISP\\koribali_tools_dev\\kb_icon\\kb_top_screw_cap-1.bmp", "ICON_32_BLANK")](kb_top_screw_cap)
+
+//
+// End of AutoCAD menu file - C:\AutoLISP\koribali_tools\kb_menu\koribali_tools.mns
+//

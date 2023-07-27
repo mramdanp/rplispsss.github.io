@@ -1,0 +1,4 @@
+(setenv "ACAD" (strcat (getenv "ACAD") ";C:\\AutoLISP\\koribali_tools_dev"))
+(command "menuunload" "koribali_tools_dev")
+(command "menuload" "C:\\AutoLISP\\koribali_tools_dev\\kb_menu\\koribali_tools_dev.mns")
+(alert "Koribali Tools 2023.05.08,  was successfully added to your AutoCAD")

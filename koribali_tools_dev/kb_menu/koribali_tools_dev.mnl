@@ -1,0 +1,7 @@
+(setvar "SECURELOAD" 0)
+
+(load "C:\\AutoLISP\\koribali_tools_dev\\kb_function\\kb_function.lsp")
+(load "C:\\AutoLISP\\koribali_tools_dev\\kb_program\\kb_dimension_description.lsp")
+(load "C:\\AutoLISP\\koribali_tools_dev\\kb_program\\kb_dimension_reset.lsp")
+(load "C:\\AutoLISP\\koribali_tools_dev\\kb_program\\kb_top_screw_cap.lsp")
+(load "C:\\AutoLISP\\koribali_tools_dev\\kb_program\\kb_top_tatakikomi_cap.lsp")
